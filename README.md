@@ -1,2 +1,2 @@
 # pwsh-photo-tools
-some sctipts/modules I use for my photo workflows
+some scripts/modules I use for my photo workflows
